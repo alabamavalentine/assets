@@ -288,6 +288,8 @@ github.com/trustwallet/assets-go-libs v0.0.12-0.20211213120524-4150337aa72e h1:x
 github.com/trustwallet/assets-go-libs v0.0.12-0.20211213120524-4150337aa72e/go.mod h1:ap6mIFsVjpRI8lXS1UX9/xAwJgaXGm9BHDxAxkQHkFc=
 github.com/trustwallet/assets-go-libs v0.0.12-0.20211213120914-a0540e462c9f h1:M7qoFD9BdKTyL2+E05RuXjOLKcHYqeTnqcKYaIZModc=
 github.com/trustwallet/assets-go-libs v0.0.12-0.20211213120914-a0540e462c9f/go.mod h1:ap6mIFsVjpRI8lXS1UX9/xAwJgaXGm9BHDxAxkQHkFc=
+github.com/trustwallet/assets-go-libs v0.0.12-0.20211213121751-2bc91cbcd71f h1:Ym2yVgO48F6VrKEl0xSwVyhAuuFcrJWmfSwlvU70U5w=
+github.com/trustwallet/assets-go-libs v0.0.12-0.20211213121751-2bc91cbcd71f/go.mod h1:ap6mIFsVjpRI8lXS1UX9/xAwJgaXGm9BHDxAxkQHkFc=
 github.com/trustwallet/go-libs v0.2.20 h1:pYstFNgsc7CVyVeYt5GHsMa0JNQHJVRvPQqMvXMpCtY=
 github.com/trustwallet/go-libs v0.2.20/go.mod h1:7QdAp1lcteKKI0DYqGoaO8KO4eTNYjGmg8vHy0YXkKc=
 github.com/trustwallet/go-primitives v0.0.17 h1:1fBxZMKGCHdHtgdUzsqdFlD21+1GneIk/sxN6jxYBds=
